@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "ar_board_static_image.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
