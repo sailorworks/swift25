@@ -39,10 +39,16 @@ RealityKit powers all the AR interactions:
 
 ---
 
+
 ## 📌 Installation & Setup
 1. Download the project source code and open it in Swift Playgrounds on your iPad.
 2. Compile and launch the app.
 3. Dive into the game and start playing!
+
+---
+
+## 📜 License
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 ### This is a project submitted for swift student challenge 2025.
